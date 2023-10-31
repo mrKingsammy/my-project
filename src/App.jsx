@@ -36,7 +36,7 @@ export default function CalcBuild(){
         <button class="text-white bg-[#616161] rounded-lg p-2 font-bold hover:bg-[#5dcc89] text-[30px]" onClick={() => handleButtonClick('C')} >C</button>
           <button class="text-white bg-[#616161] rounded-lg font-bold hover:bg-[#5dcc89] text-[30px]" onClick={() => handleButtonClick('(')}  >(</button>
           <button class="text-white bg-[#616161] rounded-lg font-bold hover:bg-[#5dcc89] text-[30px]" onClick={() => handleButtonClick(')')} >)</button>
-          <button class="text-white bg-[#077634] rounded-lg font-bold hover:bg-[#5dcc89] text-[30px]"  onClick={() => handleButtonClick('*')}>*</button>
+          <button class="text-white bg-[#077634] rounded-lg font-bold hover:bg-[#5dcc89] text-[30px]"  onClick={() => handleButtonClick('*')}>x</button>
           <button class="text-white bg-[#303136] rounded-lg p-2 text-[#02a543] font-bold hover:bg-[#616161] text-[30px]" onClick={() => handleButtonClick('7')} >7</button>
           <button class="text-white bg-[#303136] rounded-lg font-bold text-[#02a543] hover:bg-[#616161] text-[30px]" onClick={() => handleButtonClick('8')}>8</button>
           <button class="text-white bg-[#303136] rounded-lg font-bold text-[#02a543] hover:bg-[#616161] text-[30px]" onClick={() => handleButtonClick('9')}>9</button>
